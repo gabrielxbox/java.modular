@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/digita.innovatio.one.utils/digita.innovatio.one.utils.iml" filepath="$PROJECT_DIR$/digita.innovatio.one.utils/digita.innovatio.one.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digital.inovation.one.main.core/digital.inovation.one.main.core.iml" filepath="$PROJECT_DIR$/digital.inovation.one.main.core/digital.inovation.one.main.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.modular.iml" filepath="$PROJECT_DIR$/java.modular.iml" />
+    </modules>
+  </component>
+</project>
